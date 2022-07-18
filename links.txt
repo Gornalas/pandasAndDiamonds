@@ -1,1 +1,2 @@
 https://smysl.io/blog/pandas/
+http://kodesource.top/python-exercises/pandas/practice-set1/pandas-practice-set1-exercise-8.php
